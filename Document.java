@@ -1,4 +1,4 @@
-package quan_ly_sach;
+package quan_ly_tai_lieu;
 
 public class Document 
 {
